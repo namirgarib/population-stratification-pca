@@ -1,0 +1,10 @@
+.vscode
+.venv
+chuukan_houkoku
+final-report
+overview
+pca
+program_c/data
+program_c/results
+program_rust/data
+tex-utils

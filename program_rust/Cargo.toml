@@ -1,0 +1,7 @@
+[package]
+name = "pca_population_strat"
+version = "0.1.0"
+edition = "2021"
+authors = ["Namir Garib <namirgarib@stu.kanazawa-u.ac.jp>"]
+
+[dependencies]
